@@ -2,7 +2,7 @@
 Very simple Arduino based 24c16 EEPROM programmer, based on [P-Find/arduino-24c16](https://github.com/P-Find/arduino-24c16)
 
 ## Pin connections
-This connections are for the x24c16p. Other variations of the 24c16 should be compatible, but cross reference the datasheet of your exact model before blaming me ;)
+This connections are for the x24c16p from Xicor. Other variations of the 24c16 should be compatible, but cross reference the datasheet of your exact model before blaming me ;)
 
 |Arduino|24c16|Comments|
 |-------|-----|--------|
