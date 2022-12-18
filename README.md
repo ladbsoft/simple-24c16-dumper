@@ -16,6 +16,6 @@ This connections are for the x24c16p from Xicor. Other variations of the 24c16 s
 |+5V|Vcc|Power|
 
 ## Instructions
-- Upload sketch to an Arduino Mega
+- Upload sketch to an Arduino (Uno, Nano, Mega...)
 - Connect using serial monitor
 - Send a `c` to clear the chip, or an `s` to read it. Read data will be presented as hex in the serial console.
